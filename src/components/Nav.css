@@ -1,0 +1,9 @@
+.active {
+	color: #D0A61D;
+	font-weight: bold;
+}
+
+.neutro {
+	color: rgb(191, 191, 191);
+	font-weight:lighter;
+}
